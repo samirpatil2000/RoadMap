@@ -9,7 +9,7 @@
     - [Functions and Array's](https://youtube.com/playlist?list=PL-Jc9J83PIiHOV7lm2uSw4ZiVsIRsGS6r)
 
 
-### Start With DSA
+### Problem Solving
 
 - Array
     - [Majority Elements in an Array | Moore's Voting Algorithm](https://youtu.be/X0G5jEcvroo)
