@@ -21,6 +21,11 @@
     - [Best time to buy and sell stock to Maximise Profit Leetcode - 121 ](https://youtu.be/34WE6kwq49U)
     - [Best time to Buy and Sell Stock ii || Leetcode - 122 ](https://youtu.be/Q7v239y-Tik)
     - [Trapping Rainwater Problem | Rain water trapping problem ](https://youtu.be/UZG3-vZlFM4)
+    - Concept
+        - Sliding Window
+            -  [Max Sum Subarray of size K](https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1)
+            -  [First negative integer in every window of size k](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1)
+            -  [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
    
 - Searching & Sorting
     - Level - 1
