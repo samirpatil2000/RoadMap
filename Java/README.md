@@ -5,7 +5,7 @@
     - [Java Tutorial for Beginners | Full Course](https://www.youtube.com/watch?v=8cm1x4bC610) {Upto 02:55:00}
 - Level - 2 [Questions On Loops/Patterns] 
     - [Loops, Patterns and Maths ](https://youtube.com/playlist?list=PL-Jc9J83PIiFj7YSPl2ulcpwy-mwj1SSk) {From Video 11 to 74}
-- Level - 3 [Maths]
+- Level - 3 [Maths][Optional]
     - [Mathematics & Number Theory Algorithms](https://youtu.be/69jsFIMINpI)
     - [Euclid GCD, Prime Numbers & Sieve of Eratosthenes](https://youtu.be/dyrRM8dTEus)
     - [Modulo Arithmetics](https://youtu.be/CnPreli2F-E)
