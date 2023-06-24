@@ -11,7 +11,7 @@
     - [Django Deployment on AWS EC2](https://youtu.be/Sa_kQheCnds)
     - [Dockerize Django App](https://youtu.be/8c14GBrbglw)
    
-  - Feel free to choose whichever youtuber tutorial you want to whatch main thing is that
+  - Feel free to choose whichever youtuber tutorial you want to watch main thing is that
     - First clone the project, code side by side 
     - Watch that tutorial again 
     - Build the projects from [justDjango](https://www.youtube.com/@JustDjango/videos) and add changes from your side as well
