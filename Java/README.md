@@ -26,6 +26,11 @@
             -  [Max Sum Subarray of size K](https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1)
             -  [First negative integer in every window of size k](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1)
             -  [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+        - HashMaps / HashSet
+            -  [Introduction to Hashing](https://youtu.be/K7BTtcU0n-Q)
+            -  [Count Distinct Elements | Union & Intersection of Two Arrays](https://youtu.be/FEQSlOQa5po)
+            -  [Find Subarray with the given sum k ](https://youtu.be/j48e8ac7r20)
+            -  [Count Distinct Elements in every Window of size k](https://youtu.be/wZLn2BN1TvY)
    
 - Searching & Sorting
     - Level - 1
