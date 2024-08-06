@@ -4,6 +4,7 @@
 - Django 
   - Level - 1
     - [Django For Beginners CodeWithHarry](https://youtu.be/JxzZxdht-XY)
+    - [Full Stack Project] https://youtu.be/opzK3E4Xx6o?si=glcKRd7HFQ38x4xI
   - Level - 2
     - [Django By CoreySchafer](https://youtu.be/UmljXZIypDc) {watch upto 12th}
     - [Django By JustDjango](https://youtu.be/Lx5-XtMGDsA)
