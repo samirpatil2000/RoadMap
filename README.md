@@ -7,6 +7,7 @@
 
 - ### DSA
   - [50 DSA Questions](DSA/IMP40Questions.md)
+  - [Leet Code Questions with patterns](DSA/LeetCodeQuestions.md)
   - [DSA PATTERNS](https://drive.google.com/file/d/1le20ilgZFn8Jy9RYUPaamOhm-3kpBhao/view?usp=sharing)
 
 ## Development 
